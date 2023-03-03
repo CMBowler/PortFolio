@@ -4,7 +4,7 @@ Current status:
 
 Compile all files, in executable 'eX'
 
-run: 
+Run: 
 
 ``
 ./eX [Port Num] NodesInfo.csv Nodes.txt Edges.txt Files.txt
