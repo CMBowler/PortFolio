@@ -1,3 +1,5 @@
+*Only runs on Linux machines*
+
 P2P distributed file sharing system
 
 Current status:
